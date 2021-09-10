@@ -1,0 +1,11 @@
+.btn-add.remove {
+    display: none;
+}
+
+.btn-update {
+    display: none;
+}
+
+.btn-update.active {
+    display: block;
+}
